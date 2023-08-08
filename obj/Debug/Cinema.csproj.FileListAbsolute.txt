@@ -1,0 +1,290 @@
+C:\Users\odayi\Desktop\Cinema\bin\Debug\mongocrypt.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Cinema.exe
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Cinema.pdb
+C:\Users\odayi\Desktop\Cinema\bin\Debug\AWSSDK.Core.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\DnsClient.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\MongoDB.Bson.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\MongoDB.Driver.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\SharpCompress.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Snappier.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Buffers.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Memory.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Security.AccessControl.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Security.Permissions.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\ZstdSharp.dll
+C:\Users\odayi\Desktop\Cinema\bin\Debug\AWSSDK.Core.pdb
+C:\Users\odayi\Desktop\Cinema\bin\Debug\AWSSDK.Core.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\odayi\Desktop\Cinema\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\DnsClient.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\MongoDB.Bson.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\MongoDB.Driver.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\Snappier.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Buffers.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Memory.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Security.AccessControl.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Security.Permissions.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\odayi\Desktop\Cinema\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.Form1.resources
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.CustomerUserInterface.resources
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.MovieDetailsAndPurchase.resources
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.exe
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.pdb
+C:\Users\odayi\Desktop\Cinema\obj\Debug\Cinema.AdminVerificationForm.resources
+C:\Users\Peter\Desktop\Cinema\bin\Debug\mongocrypt.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Cinema.exe
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Peter\Desktop\Cinema\bin\Debug\AWSSDK.Core.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\DnsClient.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\MongoDB.Bson.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\MongoDB.Driver.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\SharpCompress.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Snappier.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Buffers.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Memory.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Security.Permissions.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\ZstdSharp.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\AWSSDK.Core.pdb
+C:\Users\Peter\Desktop\Cinema\bin\Debug\AWSSDK.Core.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\Peter\Desktop\Cinema\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\DnsClient.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\MongoDB.Bson.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\MongoDB.Driver.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Snappier.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Buffers.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Memory.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Security.Permissions.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Peter\Desktop\Cinema\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.AdminVerificationForm.resources
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.CustomerUserInterface.resources
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.exe
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.pdb
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.AdminInterface.resources
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.UpdateAndDeleteAdmin.resources
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.FrontPage.resources
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Interop.WMPLib.dll
+C:\Users\Peter\Desktop\Cinema\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.csproj.ResolveComReference.cache
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.MovieDetailsAndBooking.resources
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Interop.WMPLib.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Peter\Desktop\Cinema\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\Peter\Desktop\Cinema\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\Peter\Desktop\Cinema\obj\Debug\Cinema.SelectingSeats.resources
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\mongocrypt.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Cinema.exe
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Cinema.pdb
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\AWSSDK.Core.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\DnsClient.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\MongoDB.Bson.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\MongoDB.Driver.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\SharpCompress.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Snappier.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Buffers.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Memory.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Security.Permissions.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\ZstdSharp.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\AWSSDK.Core.pdb
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\AWSSDK.Core.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\DnsClient.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\MongoDB.Bson.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\MongoDB.Driver.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Snappier.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Buffers.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Memory.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Security.Permissions.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.AdminInterface.resources
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.AdminVerificationForm.resources
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.FrontPage.resources
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.CustomerUserInterface.resources
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.MovieDetailsAndBooking.resources
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.SelectingSeats.resources
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.UpdateAndDeleteAdmin.resources
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.exe
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.pdb
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.Payment.resources
+C:\Users\DELL\OneDrive - The National School Of Handessaim\שולחן העבודה\Cinema\obj\Debug\Cinema.UpdateAndDeleteMovie.resources
+C:\Users\97258\Desktop\Cinema\bin\Debug\mongocrypt.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\97258\Desktop\Cinema\bin\Debug\Cinema.exe
+C:\Users\97258\Desktop\Cinema\bin\Debug\Cinema.pdb
+C:\Users\97258\Desktop\Cinema\bin\Debug\AWSSDK.Core.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\AWSSDK.SecurityToken.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\DnsClient.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\MongoDB.Bson.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\MongoDB.Driver.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\Newtonsoft.Json.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\SharpCompress.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\Snappier.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Buffers.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Memory.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Security.AccessControl.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Security.Permissions.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\ZstdSharp.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\AWSSDK.Core.pdb
+C:\Users\97258\Desktop\Cinema\bin\Debug\AWSSDK.Core.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\AWSSDK.SecurityToken.pdb
+C:\Users\97258\Desktop\Cinema\bin\Debug\AWSSDK.SecurityToken.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\DnsClient.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\MongoDB.Bson.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\MongoDB.Driver.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\Newtonsoft.Json.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\Snappier.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Buffers.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Memory.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Security.AccessControl.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Security.Permissions.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\97258\Desktop\Cinema\bin\Debug\Interop.MSVidCtlLib.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\Interop.WMPLib.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\97258\Desktop\Cinema\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\97258\Desktop\Cinema\obj\Debug\Interop.MSVidCtlLib.dll
+C:\Users\97258\Desktop\Cinema\obj\Debug\Interop.WMPLib.dll
+C:\Users\97258\Desktop\Cinema\obj\Debug\AxInterop.MSVidCtlLib.dll
+C:\Users\97258\Desktop\Cinema\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.csproj.ResolveComReference.cache
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.AdminInterface.resources
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.AdminVerificationForm.resources
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.FrontPage.resources
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.CustomerUserInterface.resources
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.MovieDetailsAndBooking.resources
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.Payment.resources
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.SelectingSeats.resources
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.UpdateAndDeleteAdmin.resources
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.UpdateAndDeleteMovie.resources
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.csproj.CopyComplete
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.exe
+C:\Users\97258\Desktop\Cinema\obj\Debug\Cinema.pdb

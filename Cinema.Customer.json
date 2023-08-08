@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "64b988db441b3a295b953e7e"
+  },
+  "customerID": "323115824",
+  "customerFullName": "peter",
+  "PhoneNumber": "0525768379"
+},
+{
+  "_id": {
+    "$oid": "64b990875a5b618b4fa5999b"
+  },
+  "customerID": "323115824",
+  "customerFullName": "Peter",
+  "PhoneNumber": "0525768379"
+}]

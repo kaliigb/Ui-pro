@@ -1,0 +1,13 @@
+{
+  "movieName": "The Shawshank Redemption",
+  "movieCategory": "Drama",
+  "projectionType": "2D",
+  "price": 80,
+  "director": "Frank Darabont",
+  "duration": "2:22",
+  "poster": "C:\\Users\\DELL\\Movies\\TheShawshankRedemption.jpg",
+  "schedule": "2023-06-18T18:30:00.000+00:00",
+  "age": 18,
+  "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+  "theater": "B3"
+}

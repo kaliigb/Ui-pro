@@ -1,0 +1,537 @@
+[{
+  "_id": {
+    "$oid": "64b931309d0247d01fa60047"
+  },
+  "th": {
+    "Name": "A2",
+    "Capacity": 20,
+    "seatDictionary": {
+      "A1": {
+        "Number": 1,
+        "Row": "A",
+        "Occupied": true
+      },
+      "A2": {
+        "Number": 2,
+        "Row": "A",
+        "Occupied": true
+      },
+      "A3": {
+        "Number": 3,
+        "Row": "A",
+        "Occupied": true
+      },
+      "A4": {
+        "Number": 4,
+        "Row": "A",
+        "Occupied": true
+      },
+      "A5": {
+        "Number": 5,
+        "Row": "A",
+        "Occupied": false
+      },
+      "B1": {
+        "Number": 1,
+        "Row": "B",
+        "Occupied": true
+      },
+      "B2": {
+        "Number": 2,
+        "Row": "B",
+        "Occupied": true
+      },
+      "B3": {
+        "Number": 3,
+        "Row": "B",
+        "Occupied": true
+      },
+      "B4": {
+        "Number": 4,
+        "Row": "B",
+        "Occupied": true
+      },
+      "B5": {
+        "Number": 5,
+        "Row": "B",
+        "Occupied": true
+      },
+      "C1": {
+        "Number": 1,
+        "Row": "C",
+        "Occupied": true
+      },
+      "C2": {
+        "Number": 2,
+        "Row": "C",
+        "Occupied": true
+      },
+      "C3": {
+        "Number": 3,
+        "Row": "C",
+        "Occupied": true
+      },
+      "C4": {
+        "Number": 4,
+        "Row": "C",
+        "Occupied": true
+      },
+      "C5": {
+        "Number": 5,
+        "Row": "C",
+        "Occupied": true
+      },
+      "D1": {
+        "Number": 1,
+        "Row": "D",
+        "Occupied": true
+      },
+      "D2": {
+        "Number": 2,
+        "Row": "D",
+        "Occupied": true
+      },
+      "D3": {
+        "Number": 3,
+        "Row": "D",
+        "Occupied": true
+      },
+      "D4": {
+        "Number": 4,
+        "Row": "D",
+        "Occupied": true
+      },
+      "D5": {
+        "Number": 5,
+        "Row": "D",
+        "Occupied": false
+      }
+    }
+  },
+  "movieName": "SpiderMan",
+  "movieCategories": [
+    "Crime"
+  ],
+  "projectionType": "4DX",
+  "price": 33,
+  "director": "peter",
+  "duration": "1:30",
+  "poster": "C:\\Users\\DELL\\Downloads\\דיגרמת הקשר.jpg",
+  "schedule": [
+    [
+      {
+        "$date": "2023-07-27T12:35:22.000Z"
+      },
+      [
+        "14:30",
+        "18:30"
+      ]
+    ]
+  ],
+  "age": 16,
+  "trailer": "https://www.youtube.com/watch?v=TvbasBUmShU",
+  "theater": "A2"
+},
+{
+  "_id": {
+    "$oid": "64b9a11ec0404dd067efd926"
+  },
+  "th": {
+    "Name": "A3",
+    "Capacity": 20,
+    "seatDictionary": {
+      "A1": {
+        "Number": 1,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A2": {
+        "Number": 2,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A3": {
+        "Number": 3,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A4": {
+        "Number": 4,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A5": {
+        "Number": 5,
+        "Row": "A",
+        "Occupied": false
+      },
+      "B1": {
+        "Number": 1,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B2": {
+        "Number": 2,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B3": {
+        "Number": 3,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B4": {
+        "Number": 4,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B5": {
+        "Number": 5,
+        "Row": "B",
+        "Occupied": false
+      },
+      "C1": {
+        "Number": 1,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C2": {
+        "Number": 2,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C3": {
+        "Number": 3,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C4": {
+        "Number": 4,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C5": {
+        "Number": 5,
+        "Row": "C",
+        "Occupied": false
+      },
+      "D1": {
+        "Number": 1,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D2": {
+        "Number": 2,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D3": {
+        "Number": 3,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D4": {
+        "Number": 4,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D5": {
+        "Number": 5,
+        "Row": "D",
+        "Occupied": false
+      }
+    }
+  },
+  "movieName": "avengers endgame",
+  "movieCategories": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "projectionType": "3D",
+  "price": 30,
+  "director": "Peter Blaznkof",
+  "duration": "1:50",
+  "poster": "C:\\Users\\DELL\\OneDrive - The National School Of Handessaim\\שולחן העבודה\\Avengers-Endgame-Desktop-Wallpaper.jpg",
+  "schedule": [
+    [
+      {
+        "$date": "2023-07-27T20:59:36.000Z"
+      },
+      [
+        "14:30",
+        "16:40"
+      ]
+    ]
+  ],
+  "age": 16,
+  "trailer": "https://www.youtube.com/watch?v=hA6hldpSTF8",
+  "theater": "A3"
+},
+{
+  "_id": {
+    "$oid": "64b9a16cc0404dd067efd927"
+  },
+  "th": {
+    "Name": "A4",
+    "Capacity": 20,
+    "seatDictionary": {
+      "A1": {
+        "Number": 1,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A2": {
+        "Number": 2,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A3": {
+        "Number": 3,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A4": {
+        "Number": 4,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A5": {
+        "Number": 5,
+        "Row": "A",
+        "Occupied": false
+      },
+      "B1": {
+        "Number": 1,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B2": {
+        "Number": 2,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B3": {
+        "Number": 3,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B4": {
+        "Number": 4,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B5": {
+        "Number": 5,
+        "Row": "B",
+        "Occupied": false
+      },
+      "C1": {
+        "Number": 1,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C2": {
+        "Number": 2,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C3": {
+        "Number": 3,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C4": {
+        "Number": 4,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C5": {
+        "Number": 5,
+        "Row": "C",
+        "Occupied": false
+      },
+      "D1": {
+        "Number": 1,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D2": {
+        "Number": 2,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D3": {
+        "Number": 3,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D4": {
+        "Number": 4,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D5": {
+        "Number": 5,
+        "Row": "D",
+        "Occupied": false
+      }
+    }
+  },
+  "movieName": "Batman",
+  "movieCategories": [
+    "Action",
+    "Crime"
+  ],
+  "projectionType": "2D",
+  "price": 30,
+  "director": "Peter Blaznkof",
+  "duration": "1:50",
+  "poster": "C:\\Users\\DELL\\OneDrive - The National School Of Handessaim\\שולחן העבודה\\Avengers-Endgame-Desktop-Wallpaper.jpg",
+  "schedule": [
+    [
+      {
+        "$date": "2023-07-28T20:59:36.000Z"
+      },
+      [
+        "14:30"
+      ]
+    ]
+  ],
+  "age": 16,
+  "trailer": "https://www.youtube.com/watch?v=hA6hldpSTF8",
+  "theater": "A4"
+},
+{
+  "_id": {
+    "$oid": "64b9a1b9c0404dd067efd928"
+  },
+  "th": {
+    "Name": "A5",
+    "Capacity": 20,
+    "seatDictionary": {
+      "A1": {
+        "Number": 1,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A2": {
+        "Number": 2,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A3": {
+        "Number": 3,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A4": {
+        "Number": 4,
+        "Row": "A",
+        "Occupied": false
+      },
+      "A5": {
+        "Number": 5,
+        "Row": "A",
+        "Occupied": false
+      },
+      "B1": {
+        "Number": 1,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B2": {
+        "Number": 2,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B3": {
+        "Number": 3,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B4": {
+        "Number": 4,
+        "Row": "B",
+        "Occupied": false
+      },
+      "B5": {
+        "Number": 5,
+        "Row": "B",
+        "Occupied": false
+      },
+      "C1": {
+        "Number": 1,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C2": {
+        "Number": 2,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C3": {
+        "Number": 3,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C4": {
+        "Number": 4,
+        "Row": "C",
+        "Occupied": false
+      },
+      "C5": {
+        "Number": 5,
+        "Row": "C",
+        "Occupied": false
+      },
+      "D1": {
+        "Number": 1,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D2": {
+        "Number": 2,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D3": {
+        "Number": 3,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D4": {
+        "Number": 4,
+        "Row": "D",
+        "Occupied": false
+      },
+      "D5": {
+        "Number": 5,
+        "Row": "D",
+        "Occupied": false
+      }
+    }
+  },
+  "movieName": "Aquaman",
+  "movieCategories": [
+    "Action",
+    "Fantasy"
+  ],
+  "projectionType": "4DX",
+  "price": 140,
+  "director": "Odai Igbaria",
+  "duration": "1:50",
+  "poster": "C:\\Users\\DELL\\OneDrive - The National School Of Handessaim\\שולחן העבודה\\Avengers-Endgame-Desktop-Wallpaper.jpg",
+  "schedule": [
+    [
+      {
+        "$date": "2023-07-29T20:59:36.000Z"
+      },
+      [
+        "14:30"
+      ]
+    ]
+  ],
+  "age": 16,
+  "trailer": "https://www.youtube.com/watch?v=WDkg3h8PCVU",
+  "theater": "A5"
+}]

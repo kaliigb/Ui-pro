@@ -1,0 +1,33 @@
+namespace Cinema.Model
+{
+    public class TicketDetails
+    {
+       
+            // Customer information
+            public Customer Customer { get; set; }
+
+            // Ticket information
+            public Ticket Ticket { get; set; }
+
+            // Constructor for creating a new instance of the TicketDetails class.
+            public TicketDetails(Customer customer, Ticket ticket)
+            {
+                Customer = customer;
+                Ticket = ticket;
+            }
+
+            // Overrides the ToString() method to provide a string representation of the TicketDetails object.
+            public override string ToString()
+            {
+                return $"Customer ID: {Customer.Id}\n" +
+                       $"Customer Name: {Customer.FirstName} {Customer.LastName}\n" +
+                       $"Theater: {Ticket.Theater}\n" +
+                       $"Seat: {Ticket.Seat}\n" +
+                       $"Date: {Ticket.Date}\n" +
+                       $"Price: {Ticket.Price}\n" +
+                       $"Movie Name: {Ticket.MovieName}";
+            }
+        
+
+    }
+}
